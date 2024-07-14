@@ -1,0 +1,14 @@
+C:\OOP ISAAC\PaySlip\PaySlip\bin\Debug\net8.0\PaySlip.exe
+C:\OOP ISAAC\PaySlip\PaySlip\bin\Debug\net8.0\PaySlip.deps.json
+C:\OOP ISAAC\PaySlip\PaySlip\bin\Debug\net8.0\PaySlip.runtimeconfig.json
+C:\OOP ISAAC\PaySlip\PaySlip\bin\Debug\net8.0\PaySlip.dll
+C:\OOP ISAAC\PaySlip\PaySlip\bin\Debug\net8.0\PaySlip.pdb
+C:\OOP ISAAC\PaySlip\PaySlip\obj\Debug\net8.0\PaySlip.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP ISAAC\PaySlip\PaySlip\obj\Debug\net8.0\PaySlip.AssemblyInfoInputs.cache
+C:\OOP ISAAC\PaySlip\PaySlip\obj\Debug\net8.0\PaySlip.AssemblyInfo.cs
+C:\OOP ISAAC\PaySlip\PaySlip\obj\Debug\net8.0\PaySlip.csproj.CoreCompileInputs.cache
+C:\OOP ISAAC\PaySlip\PaySlip\obj\Debug\net8.0\PaySlip.dll
+C:\OOP ISAAC\PaySlip\PaySlip\obj\Debug\net8.0\refint\PaySlip.dll
+C:\OOP ISAAC\PaySlip\PaySlip\obj\Debug\net8.0\PaySlip.pdb
+C:\OOP ISAAC\PaySlip\PaySlip\obj\Debug\net8.0\PaySlip.genruntimeconfig.cache
+C:\OOP ISAAC\PaySlip\PaySlip\obj\Debug\net8.0\ref\PaySlip.dll
